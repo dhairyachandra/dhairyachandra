@@ -24,7 +24,7 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 
 <h2 align="center">🏆 Trophies</h2></a>
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=dhairyachandra&margin-w=30"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=dhairyachandra"/>
 </p>
 
 <!--START_SECTION:waka-->
