@@ -6,7 +6,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhairyachandra&logoColor=white" /> 
  <img
 src="https://img.shields.io/github/followers/dhairyachandra?style=social" alt="crazychickendev" />  <img
-src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x00CCSec" /> </p>
+src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x00CCSec" /> 
+
+<a href="https://www.buymeacoffee.com/medhairya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
 
 - 🔭 I’m currently working on building an end to end Machine Learning tool [OCEL.AI](http://www.ocel.ai)... 🧑‍💻 
 
