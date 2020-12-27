@@ -66,6 +66,10 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 </p>
 <hr>
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<div align="center">
+
+<h3>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</h3>
 
 <a href="https://www.buymeacoffee.com/medhairya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+</div>
