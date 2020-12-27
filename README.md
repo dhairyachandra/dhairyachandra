@@ -1,6 +1,6 @@
 
 <div align="center">
-   <h1>Hi there, I'm <a href="http://www.medhairya.com">Dhairya Chandra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> <a href="https://www.buymeacoffee.com/medhairya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" >
+   <h1>Hi there, I'm <a href="http://www.medhairya.com">Dhairya Chandra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <h4 align="center"> Graduate Student - Computer Science 🧑‍💻 | Research Assistant @ National Science Foundation 🏢 </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhairyachandra&logoColor=white" /> 
@@ -11,7 +11,6 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 </a>
 </p>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="medhairya" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 - 🔭 I’m currently working on building an end to end Machine Learning tool [OCEL.AI](http://www.ocel.ai)... 🧑‍💻 
 
@@ -66,3 +65,7 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
   </a>  
 
 </p>
+<hr>
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/medhairya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
