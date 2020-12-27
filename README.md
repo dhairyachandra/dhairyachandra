@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact)][github]
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact" alt="dhairyachandra"/> 
 </p>
 
 <div align="center">
