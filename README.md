@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=dhairyachandra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="dhairyachandra"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="dhairyachandra"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhairyachandra)](https://github.com/anuraghazra/github-readme-stats" alt="dhairyachandra"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="dhairyachandra"/> </p>
 
 <div align="center">
    <h2> Connect with me </h2>
