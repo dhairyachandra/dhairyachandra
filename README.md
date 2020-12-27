@@ -27,11 +27,6 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=dhairyachandra"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact" alt="dhairyachandra"/> 
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact" alt="dhairyachandra"/> 
-</p>
-
 <div align="center">
    <h2> Connect with me </h2>
 </div>
