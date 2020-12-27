@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=dhairyachandra&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="dhairyachandra"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="dhairyachandra"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=dhairyachandra&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=gradient" alt="dhairyachandra"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="dhairyachandra"/> </p>
 
 <div align="center">
    <h2> Connect with me </h2>
