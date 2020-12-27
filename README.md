@@ -24,10 +24,11 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 
 <h2 align="center">🏆 Trophies</h2></a>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhairyachandra&column=4&margin-w=15&margin-h=15"/> 
+<p align="center">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact" alt="dhairyachandra"/> 
+   <img src="https://github-profile-trophy.vercel.app/?username=dhairyachandra&column=4&margin-w=15&margin-h=15"/> 
    
    
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&layout=compact" alt="dhairyachandra"/> 
+
 </p>
 
 <div align="center">
