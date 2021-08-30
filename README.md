@@ -16,7 +16,7 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 - 🌱 I’m currently working in **Oracle Database, SQL, PERL, React, Node.JS**
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available on
   [my personal website](http://medhairya.com)
 
 - 💬 Ask me about **New Gadgets, Website Developmemt, CMS, Cloud,
