@@ -14,15 +14,15 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 - 🔭 I’m currently working as Software Engineer II @ [MetroNet](https://www.metronetinc.com) 🧑‍💻 
 
-- 🌱 I’m currently working in **Oracle Database, SQL, PERL, React, Node.JS**
+- 🌱 I’m currently working in **PEGA, Machine Learning, Prediction Models, React Native**
 
 - 👨‍💻 All of my projects are available on
   [my personal website](http://medhairya.com)
 
-- 💬 Ask me about **New Gadgets, Website Developmemt, CMS, Cloud,
+- 💬 Ask me about **New Gadgets, Data Science/Machine Learning, Website Developmemt, CMS, Cloud,
   Tech Reviews and Search Engine Optimization**
 
-- 📫 You can reach me **[here](mailto:dhairyachandra@outlook.com)**
+- 📫 You can reach me **[here](mailto:hello@medhairya.com)**
 
 
 <h2 align="center">🏆 Trophies</h2></a>
@@ -40,7 +40,7 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 <p align="center">
  
-  <a href="mailto:dhairyachandra@outlook.com">
+  <a href="mailto:hello@medhairya.com">
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
 
