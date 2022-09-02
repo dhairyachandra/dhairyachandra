@@ -2,7 +2,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="http://www.medhairya.com">Dhairya Chandra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-<h4 align="center"> Software Engineer II @ <a href="https://www.metronetinc.com/">MetroNet</a> 💻 | <a href="https://www.umkc.edu/">UMKC</a> Grad 🎓</h4>
+<h4 align="center"> Data Scientist @ <a href="https://www.metronetinc.com/">MetroNet</a> 💻 | <a href="https://www.umkc.edu/">UMKC</a> Grad 🎓</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhairyachandra&logoColor=white" /> 
  <img
 src="https://img.shields.io/github/followers/dhairyachandra?style=social" alt="crazychickendev" />  <img
@@ -12,7 +12,7 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 </p>
 
 
-- 🔭 I’m currently working as Software Engineer II @ [MetroNet](https://www.metronetinc.com) 🧑‍💻 
+- 🔭 I’m currently working as Data Scientist @ [MetroNet](https://www.metronetinc.com) 🧑‍💻 
 
 - 🌱 I’m currently working in **PEGA, Machine Learning, Prediction Models, React Native**
 
