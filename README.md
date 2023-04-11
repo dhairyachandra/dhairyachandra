@@ -14,8 +14,6 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 - 🔭 I’m currently working as Data Scientist @ [MetroNet](https://www.metronetinc.com) 🧑‍💻 
 
-- 🌱 I’m currently working in **PEGA, Machine Learning, Prediction Models, React Native**
-
 - 👨‍💻 All of my projects are available on
   [my personal website](http://medhairya.com)
 
@@ -64,10 +62,3 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 </p>
 <hr>
-
-<div align="center">
-
-<h3>If you like what I do, maybe consider buying me a coffee 🥺👉👈</h3>
-
-<a href="https://www.buymeacoffee.com/medhairya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
-</div>
