@@ -25,14 +25,6 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 - 📫 You can reach me **[here](mailto:hello@medhairya.com)**
 
 
-<h2 align="center">🏆 Trophies</h2></a>
-<p align="center">   
-   <img src="https://github-profile-trophy.vercel.app/?username=dhairyachandra&column=4&margin-w=10&margin-h=10"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyachandra&langs_count=4" alt="dhairyachandra"/> 
-   
-
-</p>
-
 <div align="center">
    <h2> Connect with me </h2>
 </div>
