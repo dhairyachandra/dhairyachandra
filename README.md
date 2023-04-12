@@ -19,6 +19,8 @@ src="https://img.shields.io/twitter/follow/dhairyachandra?style=social" alt="0x0
 
 - 💬 Ask me about **New Gadgets, Data Science/Machine Learning, Website Developmemt, CMS, Cloud,
   Tech Reviews and Search Engine Optimization**
+  
+- Passionate open-source contributor with a commitment to improving the software development community
 
 - 📫 You can reach me **[here](mailto:hello@medhairya.com)**
 
